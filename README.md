@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I am Odomero Omokahfe, a passionate Data Scientist who enjoys extracting insights from data and making predictions using ML algorithms
-👯 I’m looking to collaborate on data science projects / research. 🌱 I’m currently learning deep learning algorithms and its application.
+
+🌱 I’m currently learning deep learning algorithms and its application. Also, I’m looking to collaborate on data science projects. 👯 
 
 ## How to reach me?
 📫 you can mail me at oshieodomero@gmail.com
