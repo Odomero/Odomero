@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Odomero Omokahfe, a passionate Data Scientist who enjoys extracting insights from data and making predictions using ML algorithms
+I am Odomero Omokahfe, a Data Scientist who enjoys extracting insights from data and making predictions using ML algorithms
 
 🌱 I’m currently learning deep learning algorithms and its application. Also, I’m looking to collaborate on data science projects. 👯 
 
