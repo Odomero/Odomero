@@ -14,7 +14,7 @@ Knowledgeable in database design and implementation
 * Development Tools: Visual Studio Code, Postman
 
 
-🔭 I’m currently developing a mini dynamic ReactJS website utiling MySQL DB with Google Cloud SQL.
+🔭 I’m currently developing a mini dynamic ReactJS website utilizing MySQL DB with Google Cloud SQL.
 
 #### How to reach me?
 📫 you can mail me at oshieodomero@gmail.com
