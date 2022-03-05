@@ -1,4 +1,4 @@
-### Hi there 😄👋
+### Hello 😄👋
 
 I am Odomero Omokahfe, a Software Developer with keen interest in building resilient solutions.
 Having hands on experience in development of APIs, static and dynamic web projects.
