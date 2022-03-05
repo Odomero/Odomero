@@ -1,4 +1,4 @@
-### Hi there 👋 😄
+### Hi there 😄👋
 
 I am Odomero Omokahfe, a Software Developer with keen interest in building resilient solutions.
 Having hands on experience in development of APIs, static and dynamic web projects.
@@ -15,7 +15,7 @@ Having hands on experience in development of APIs, static and dynamic web projec
 
 🔭 I’m currently developing a mini dynamic ReactJS website utiling MySQL DB with Google Cloud SQL.
 
-## How to reach me?
+#### How to reach me?
 📫 you can mail me at oshieodomero@gmail.com
 
 
