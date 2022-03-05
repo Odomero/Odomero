@@ -1,7 +1,8 @@
 ### Hello 😄👋
 
 I am Odomero Omokahfe, a Software Developer with keen interest in building resilient solutions.
-Having hands on experience in development of APIs, static and dynamic web projects.
+Having hands on experience in development of APIs, static and dynamic web projects. 
+Knowledgeable in database design and implementation
 
 
 * Languages: Python, JavaScript, HTML, CSS, SQL
