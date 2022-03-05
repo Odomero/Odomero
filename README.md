@@ -1,8 +1,32 @@
 ### Hi there 👋
 
-I am Odomero Omokahfe, a Data Scientist who enjoys extracting insights from data and making predictions using ML algorithms
+I am Odomero Omokahfe, a Software Developer with keen interest in building resilient solutions.
+Having hands on experience in development of APIs, static and dynamic web projects.
 
-🌱 I’m currently learning deep learning algorithms and its application. Also, I’m looking to collaborate on data science projects. 👯 
+
+Languages
+* Python
+* JavaScript
+* HTML
+* CSS
+* SQL
+
+Technologies
+* Flask
+* Django
+* NodeJS
+
+Database
+* SQLite
+* PostgreSQL
+* MySQL
+
+Development Tools
+* Visual Studio Code
+* Postman
+
+
+🌱 I’m currently developing a mini dynamic ReactJS website utiling MySQL DB with Google Cloud SQL.
 
 ## How to reach me?
 📫 you can mail me at oshieodomero@gmail.com
