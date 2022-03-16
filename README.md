@@ -15,7 +15,7 @@ Knowledgeable in database design and implementation
 
 Also, I explore the world of data science where I develop supervised and unsupervised ML models using Python and R. 
 
-Other libraries and technologies are Sci-kit learn,  cluster, arules, Pandas, Numpy, BeautifulSoup, JSON, Requests, Jupyter Notebook, RStudio, Github. See some projects at https://rpubs.com/dMero 
+Other libraries and technologies I'm familiar with are Sci-kit learn,  cluster, arules, Pandas, Numpy, BeautifulSoup, JSON, Requests, Jupyter Notebook, RStudio, Github. See some projects at https://rpubs.com/dMero 
 
 🔭 I’m currently developing a dynamic Django website utilizing MySQL DB with Google Cloud SQL.
 
