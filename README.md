@@ -7,14 +7,17 @@ Knowledgeable in database design and implementation
 
 * Languages: Python, JavaScript, HTML, CSS, SQL
 
-* Technologies: Flask, Django, NodeJS
+* Technologies: Flask, Django, NodeJS, Express
 
 * Database: SQLite, PostgreSQL, MySQL
 
 * Development Tools: Visual Studio Code, Postman
 
+Also, I explore the world of data science where I develop supervised and unsupervised ML models using Python and R. 
 
-🔭 I’m currently developing a mini dynamic ReactJS website utilizing MySQL DB with Google Cloud SQL.
+Other libraries and technologies are Sci-kit learn,  cluster, arules, Pandas, Numpy, BeautifulSoup, JSON, Requests, Jupyter Notebook, RStudio, Github. See some projects at https://rpubs.com/dMero 
+
+🔭 I’m currently developing a dynamic Django website utilizing MySQL DB with Google Cloud SQL.
 
 #### How to reach me?
 📫 you can mail me at oshieodomero@gmail.com
