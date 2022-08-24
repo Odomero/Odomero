@@ -1,23 +1,23 @@
 ### Hello 😄👋
 
 I am Odomero Omokahfe, a Software Developer with keen interest in building resilient solutions.
-Having hands on experience in development of APIs, static and dynamic web projects. 
-Knowledgeable in database design and implementation
+Having hands on experience in development of APIs, static and dynamic web applications. 
+Knowledgeable in database design and implementation.
 
 
 * Languages: Python, JavaScript, HTML, CSS, SQL
 
-* Technologies: Flask, Django, NodeJS, Express
+* Technologies: Flask, Django, NodeJS, ReactJS, Django Rest Framework
 
 * Database: SQLite, PostgreSQL, MySQL
 
-* Development Tools: Visual Studio Code, Postman
+* Development Tools: Visual Studio Code, Postman, Trello
 
 Also, I explore the world of data science where I develop supervised and unsupervised ML models using Python and R. 
 
 Other libraries and technologies I'm familiar with are Sci-kit learn,  cluster, arules, Pandas, Numpy, BeautifulSoup, JSON, Requests, Jupyter Notebook, RStudio, Github. See some projects at https://rpubs.com/dMero 
 
-🔭 I’m currently developing a dynamic Django website utilizing MySQL DB with Google Cloud SQL.
+🔭 I’m currently developing a website using Django Rest Framework (backend) and ReactJS(frontend) utilizing PostgresSQL.
 
 #### How to reach me?
 📫 you can mail me at oshieodomero@gmail.com
