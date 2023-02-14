@@ -9,13 +9,18 @@ Knowledgeable in database design and implementation.
 
 * Technologies: Flask, Django, NodeJS, ReactJS, Django Rest Framework
 
-* Database: SQLite, PostgreSQL, MySQL
+* Database/Data Warehouse: SQLite, PostgreSQL, MySQL, BigQuery
 
-* Development Tools: Visual Studio Code, Postman, Trello
+* Development Tools: Visual Studio Code, Postman
 
-Also, I explore the world of data science where I develop supervised and unsupervised ML models using Python and R. 
+* Visualisation Tools: PowerBI, Tableau, Looker Studio
 
-Other libraries and technologies I'm familiar with are Sci-kit learn,  cluster, arules, Pandas, Numpy, BeautifulSoup, JSON, Requests, Jupyter Notebook, RStudio, Github. See some projects at https://rpubs.com/dMero 
+Also, I explore the world of data science;
+
+* supervised and unsupervised ML models using Python and R. 
+* text mining techniques
+
+Other libraries and technologies I'm familiar with are Sci-kit learn,  cluster, arules, Pandas, Numpy, BeautifulSoup, JSON, Requests, Jupyter Notebook, RStudio, Trello, Jira, Github. See some projects at https://rpubs.com/dMero 
 
 🔭 I’m currently developing a website using Django Rest Framework (backend) and ReactJS(frontend) utilizing PostgresSQL.
 
