@@ -5,9 +5,9 @@ Having hands on experience in development of APIs, static and dynamic web applic
 Knowledgeable in database design and implementation.
 
 
-* Languages: Python, JavaScript, HTML, CSS, SQL
+* Languages: Python, R, JavaScript, HTML, CSS, SQL
 
-* Technologies: Flask, Django, NodeJS, ReactJS, Django Rest Framework
+* Technologies: Flask, Django, ReactJS, Django Rest Framework, PySpark, Airflow
 
 * Database/Data Warehouse: SQLite, PostgreSQL, MySQL, BigQuery
 
@@ -17,7 +17,8 @@ Knowledgeable in database design and implementation.
 
 Also, I explore the world of data science;
 
-* supervised and unsupervised ML models using Python and R. 
+* data engineering
+* supervised and unsupervised ML models. 
 * text mining techniques
 
 Other libraries and technologies I'm familiar with are Sci-kit learn,  cluster, arules, Pandas, Numpy, BeautifulSoup, JSON, Requests, Jupyter Notebook, RStudio, Trello, Jira, Github. See some projects at https://rpubs.com/dMero 
